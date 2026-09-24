@@ -1,4 +1,4 @@
-# Julián Andrés Silva, portfolio site
+# Julian Andres Silva, portfolio site
 
 Static single-page site (index.html + styles.css, no build step).
 
